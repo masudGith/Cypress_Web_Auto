@@ -1,12 +1,8 @@
 class data {
-    // EBC URL
+    // demoblaze URL
 
     demoURL= 'https://www.demoblaze.com/'
-    EBC_CT='https://ebc-web-ct.azurewebsites.net/#/'
-    //File_Uploader_URL = http://the-internet.herokuapp.com/upload
-
     
-
     // Time wait 
     oneSecond = 1000;
     halfSecond=500;
